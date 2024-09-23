@@ -1,0 +1,3 @@
+Building a massive full-stack e-commerce web application with Vue.js and Django (DRF).
+Feel free to contribute to this project by cloning it from my GitHub repository into your local development environment. After creating and activating a Python virtual environment on the backend, install all the dependencies for both the frontend and backend.
+Please feel free to open a pull request for the entire source code of this massive full-stack e-commerce web application on GitHub, and I will gladly review your PR and address any issues raised regarding the application.
