@@ -27,3 +27,46 @@ pytest
 
 # Reads environment variables from a .env file, useful for local development
 python-dotenv
+
+# ASGI is a standard for Python asynchronous web apps and servers to communicate with each other, and positioned as an asynchronous successor to WSGI. You can read more at https://asgi.readthedocs.io/en/latest/
+asgiref
+# Braintree to integrate payments with PAYPAL
+braintree
+# Certifi provides Mozilla’s carefully curated collection of Root Certificates for validating the trustworthiness of SSL certificates while verifying the identity of TLS hosts. It has been extracted from the Requests project.
+certifi
+# Chardet: The Universal Character Encoding Detector
+chardet
+# Use Database URLs in your Django Application.
+dj-database-url
+# django-cors-headers is a Django application for handling the server headers required for Cross-Origin Resource Sharing (CORS).
+django-cors-headers
+# Gunicorn ‘Green Unicorn’ is a Python WSGI HTTP Server for UNIX. It’s a pre-fork worker model ported from Ruby’s Unicorn project. The Gunicorn server is broadly compatible with various web frameworks, simply implemented, light on server resource usage, and fairly speedy.
+gunicorn
+# Support for the Internationalized Domain Names in Applications (IDNA) protocol as specified in RFC 5891. This is the latest version of the protocol and is sometimes referred to as “IDNA 2008”.
+idna
+# Basic immutable container types for Python.
+
+# A simple implementation that's designed for simplicity over performance.
+itypes
+# Jinja is a fast, expressive, extensible templating engine. Special placeholders in the template allow writing code similar to Python syntax. Then the template is passed data to render the final document.
+Jinja2
+# MarkupSafe implements a text object that escapes characters so it is safe to use in HTML and XML. Characters that have special meanings are replaced so that they display as the actual characters. This mitigates injection attacks, meaning untrusted user input can safely be displayed on a page.
+MarkupSafe
+# The pyparsing module is an alternative approach to creating and executing simple grammars, vs. the traditional lex/yacc approach, or the use of regular expressions. The pyparsing module provides a library of classes that client code uses to construct the grammar directly in Python code.
+pyparsing
+#pytz brings the Olson tz database into Python. This library allows accurate and cross platform timezone calculations using Python 2.4 or higher. It also solves the issue of ambiguous times at the end of daylight saving time, which you can read more about in the Python Library Reference (datetime.tzinfo).
+pytz
+# Requests allows you to send HTTP/1.1 requests extremely easily. There’s no need to manually add query strings to your URLs, or to form-encode your PUT & POST data — but nowadays, just use the json method!
+requests
+# ruamel.yaml is a YAML parser/emitter that supports roundtrip preservation of comments, seq/map flow style, and map key order
+ruamel.yaml
+# This package was split of from ruamel.yaml, so that ruamel.yaml can be build as a universal wheel. Apart from the C code seldom changing, and taking a long time to compile for all platforms, this allows installation of the .so on Linux systems under /usr/lib64/pythonX.Y (without a .pth file or a ruamel directory) and the Python code for ruamel.yaml under /usr/lib/pythonX.Y.
+ruamel.yaml.clib
+# sqlparse is a non-validating SQL parser for Python. It provides support for parsing, splitting and formatting SQL statements.
+sqlparse
+# Simple python library to deal with URI Templates. The API looks like
+uritemplate
+# HTTP library with thread-safe connection pooling, file post, and more.
+urllib3
+# Radically simplified static file serving for WSGI applications
+whitenoise
