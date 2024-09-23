@@ -1,0 +1,29 @@
+# Web framework for building web applications
+Django
+
+# Toolkit for building Web APIs on top of Django
+djangorestframework
+
+# Yet Another Swagger Generator: Automated generation of OpenAPI schemas for Django REST Framework
+drf-yasg
+
+# Code formatter for enforcing a uniform code style
+black
+
+# Tool for measuring code coverage of Python programs
+coverage
+
+# Tool for checking Python code against some of the PEP8 style guides
+flake8
+
+# PostgreSQL adapter for Python, in its standalone binary form for easier installation
+psycopg2-binary
+
+# Library for handling images, used by Django for ImageFields and other image processing tasks
+Pillow
+
+# Framework for writing, running, and structuring tests in Python
+pytest
+
+# Reads environment variables from a .env file, useful for local development
+python-dotenv
